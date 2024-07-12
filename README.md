@@ -1,0 +1,2 @@
+<h1>Découvrez Rapido Find</h1>
+Ceci est mon projet de soutenance dans le cadre de mon accompagnement chez <a href="10000codeurs.com">10000Codeurs</a> en partenariat avec le centre de formation <a href="objis.com">Objis</a>.
